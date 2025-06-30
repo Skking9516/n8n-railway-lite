@@ -1,0 +1,11 @@
+{
+  "name": "n8n-railway-lite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^0.236.3"
+  }
+}
